@@ -32,7 +32,6 @@ To run the game, you will need:
 4. Enable the required tools:
 - Keyboard and Display MMIO Simulator
 - BitmapDisplay
-- Enable the required tools:
 Settings for BitmapDisplay:
 - Unit Width in Pixels: 4
 - Unit Height in Pixels: 4
