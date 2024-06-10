@@ -32,6 +32,13 @@ To run the game, you will need:
 4. Enable the required tools:
 - Keyboard and Display MMIO Simulator
 - BitmapDisplay
+- Enable the required tools:
+Settings for BitmapDisplay:
+- Unit Width in Pixels: 4
+- Unit Height in Pixels: 4
+- Display Width in Pixels: 256
+- Display Height in Pixels: 256
+- Base Address for Display: 0x10040000 (heap)
 5. Run the program in RARS.
 
 ### How to Play 🎲
